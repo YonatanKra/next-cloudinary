@@ -1,5 +1,6 @@
 {
   "branches": [
+    "#22-release-failure-should-fail-the-action",
     "main",
     "next",
     "next-major",
